@@ -1,0 +1,59 @@
+.Boximg{
+    width: 100%;
+}
+
+.TextBlack{
+    color: #687487;
+}
+
+.accordion-item{
+    border-radius: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.accordion-toggle-icon{
+    display: flex;
+    position: absolute;
+    right: 1rem;
+    font-weight: bold;
+    color: #39afd9;
+    font-size: 1.5rem;
+}
+.accordion-toggle-icon p{
+    color: #39afd9;
+    font-size: 1.5rem;
+}
+
+.accordion-toggle-icon svg{
+    font-size: 1.9rem;
+}
+
+.accordion-button{
+    background-color: transparent !important;
+}
+
+.accordion-button:focus, .accordion-button:active, .accordion-button:visited, .accordion-button:target, .accordion-button:not(.collapsed){
+    box-shadow: none;
+    color:#39afd9;
+}
+
+.accordion-button:after {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .accordion-toggle-icon p, .accordion-toggle-icon svg, .accordion-item h3{
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width:580px){
+    .MiniTitulo a{
+        font-size: .9rem;
+    }
+    .MiniTitulo h3{
+        font-size: 1rem;
+    }
+}

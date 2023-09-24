@@ -1,0 +1,43 @@
+[
+    {
+      "titulo": "La máquina no funciona, ¿cómo debería?",
+      "imagen1": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/no-funciona-01.jpg",
+      "paso1": "1. Comprueba si la batería está cargada.",
+      "imagen2": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/no-funciona-02.jpg",
+      "paso2": "2. Comprueba si la batería está en la posición correcta.",
+      "imagen3": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/no-funciona-03.jpg",
+      "paso3": "3. Revisa si hay parpadeo de luces LED. Una falla en el equipo se puede indicar por medio de LED’s parpadeantes (*)",
+      "imagen4":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png",
+      "paso4": "(*) En estos casos el procedimiento de mantenimiento debe ser realizado por un Centro de Servicio Nilfisk autorizado. Para mayor información revisar el Manual de Servicio."
+    },
+    {
+      "titulo": "La succión no funciona, ¿cómo debería?",
+      "imagen1": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-01.jpg",
+      "paso1": "1. Comprueba si el depósito de recuperación está lleno.",
+      "imagen2": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-02.jpg",
+      "paso2": "2. Revisa si suciedad o residuos están bloqueando la entrada del squeegee, y si las cuchillas están gastadas o dañadas.",
+      "imagen3": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-03.jpg",
+      "paso3": "3. Enjuaga con agua el interior de la manguera de recuperación.",
+      "imagen4": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-04.jpg",
+      "paso4": "4. Revisa si el flotador está limpio."
+    },
+    {
+      "titulo": "La máquina no limpia, ¿cómo debería?",
+      "imagen1": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/limpia-01.jpg",
+      "paso1": "1. Comprueba si el filtro de solución está sucio y límpialo si es necesario.",
+      "imagen2": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/limpia-02.jpg",
+      "paso2": "2. Revisa si los dispensadores de solución están obstruidos. Retira y límpialos en caso de ser necesario.",
+      "imagen3": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/limpia-03.jpg",
+      "paso3": "3. Comprueba si la válvula de conexión rápida no tiene fugas."
+    },
+    {
+      "titulo": "El cepillo no funciona, ¿cómo debería?",
+      "imagen1": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/pincel-01.jpg",
+      "paso1": "1. Ajusta la presión del cepillo girando la perilla de regulación.",
+      "imagen2": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/pincel-02.jpg",
+      "paso2": "2. Revisa el desgaste del cepillo y asegúrate que esté correctamente instalado.",
+      "imagen3": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/pincel-03.jpg",
+      "paso3": "3. Comprueba que no haya residuos que impidan que el cepillo gire."
+    }
+  ]
+  

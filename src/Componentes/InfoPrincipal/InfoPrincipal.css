@@ -1,0 +1,29 @@
+.Fregadora{
+    width: 430px;
+}
+
+
+.tituloh1{
+    font-size: 4rem;
+}
+
+.textcolor{
+    color: #959FB0;
+}
+
+@media screen and (max-width:768px) {
+    
+    .tituloh1{
+        font-size: 1.5rem;
+    }
+
+    .Fregadora{
+        width: 238px;
+    }
+}
+
+@media screen and (max-width:578px) {
+    .tituloh1{
+        font-size: 1.1rem;
+    }
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "AS510B",
+        "descParte1": [
+            "La AS710 R es una fregadora de pisos con conductor a bordo, a baterías, compacta, potente, robusta y confiable. Usted podrá ver que es muy fácil de operar, porque posee:",
+            "Un botón único de inicio.\n Panel de control intuitivo.\n Menú de fácil configuración."
+        ],
+        "descParte2": [
+            "También es muy segura, porque cuenta con:",
+            "Control de reducción de velocidad automático.\n Y asiento ergonómico con botón de seguridad.",
+            "Podrá limpiar grandes zonas y también áreas congestionadas por su tamaño compacto.",
+            "Adicionalmente la AS710 R le brinda grandes comodidades para hacer más ameno su trabajo."
+        ],
+        "imagenPrincipal":"https://nilfiskchile.cl/assets/img/FregadoraAS710R/fregadora-viper-as710r.jpg",
+        "nombre": [
+            "N º de Modelo",
+            "HP del motor de accionamiento (W)",
+            "Motor del cepillo (W)",
+            "Potencia del motor de vacío (W)",
+            "Tipo de Batería6V",
+            "Vacío (mm H2O)",
+            "Nivel de presión sonora (dB(A))",
+            "Tasa de productividad (m²/h)",
+            "Ancho de limpieza (mm)"
+        ], 
+        "valor": [
+            "50000315",
+            "500",
+            "2X300",
+            "500",
+            "245Ah/C20 AGM 4UDS",
+            "1800",
+            "69",
+            "4413 m2/h",
+            "710 mm"
+        ],
+        "nombre_collapse": [
+            "Mín. giro de pasillo (cm)",
+            "Máx. tasa de ascenso (%)", 
+            "Tanque de solución (l)", 
+            "Tanque de recuperación (l)",
+            "Ruedas motrices (cm)",
+            "Ancho de la escobilla de goma (mm)",
+            "Diámetro del cepillo (mm)",
+            "Presión del cepillo (kg)",
+            "Velocidad del cepillo (RPM)",
+            "Dimensiones, largo x ancho x alto (mm)",
+            "Largo x ancho x alto (mm)",
+            "Tamaño del compartimento de la batería (largo x ancho x alto) (mm)",
+            "Peso neto / kg)",
+            "Máx. peso de envío",
+            "Cargando sistema",
+            "Máx. velocidad (km/h)",
+            "Porta pads incluido",
+            "Se entrega listo para usar (paquete completo)",
+            "Plataforma de discos: 2 cepillos",
+            "Cargador de batería",
+            "Versión de batería",
+            "Mangueras de vaciado de recuperación",
+            "Indicador de nivel de agua",
+            "Parachoques delantero y trasero",
+            "Almacenamiento de escobilla de goma a bordo"
+        ],
+        "valor_collapse": [
+            "177,3",
+            "10",
+            "120",
+            "120",
+            "25",
+            "940",
+            "355x2",
+            "35",
+            "204",
+            "1730x810x1410 (paquete)",
+            "1580x760x1230 (máquina)",
+            "610x408x365",
+            "225",
+            "435",
+            "24V 25A",
+            "6 kilómetros por hora",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido"
+        ]
+    }
+]

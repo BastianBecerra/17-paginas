@@ -1,0 +1,21 @@
+.Inicio{
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+.Inicio img {
+    width: 300px;
+    margin-bottom: 3rem;
+}
+
+.btn-inicio{
+    border: 0px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 17px 30px;
+    background-color: #38afd9;
+    color: #fff !important;
+}

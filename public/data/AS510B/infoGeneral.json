@@ -1,0 +1,68 @@
+[
+    {
+        "id": "AS510B",
+        "descParte1": [
+            "La AS510 es una fregadora compacta de tamaño medio de la línea Viper de Nilfisk, que presenta un atractivo diseño ergonómico que permite al operador supervisar el suelo alrededor de la máquina.",
+            "La fregadora AS510B es un modelo versión baterías con cargador incorporado, ofrece gran desempeño de limpieza, robustez y calidad material como se puede apreciar en el depósito rotomoldeado de solución y recuperación integrados en un solo molde y la boquilla de aluminio."
+        ],
+        "descParte2": [
+            "Se caracteriza por su gran movilidad y ser un equipo fiable, muy fácil de usar y mantener.",
+            "La AS510B es la solución perfecta para zonas muy transitadas. Es ideal para la limpieza a diario de interiores en áreas de tamaño mediano como en hoteles, restaurantes, hospitales, escuelas, centros comerciales y puntos de venta, así como estaciones de metro o tren."
+        ],
+        "imagenPrincipal":"https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/fregadora-viper-as510b.jpg",
+        "nombre": [
+            "Modelo No",
+            "Longitud del cable (m)/tipo de enchufe",
+            "Motor cepillo (W)",
+            "Potencia del motor de aspiración (W)",
+            "Tipo de Batería",
+            "Vacío (mm H2O)",
+            "Nivel de presión sonora (dB(A))"
+        ], 
+        "valor": [
+            "50000238",
+            "N / A",
+            "560",
+            "350",
+            "2X12V105Ah/C20 AGM",
+            "1200",
+            "70"
+        ],
+        "nombre_collapse": [
+            "Tasa de productividad (m²/h)",
+            "Depósito solución (l)", 
+            "Depósito recuperación (l)", 
+            "Ancho de la escobilla de goma (mm)",
+            "Cepillo/diámetro de la almohadilla (mm)",
+            "Presión del cepillo (kg)",
+            "Velocidad del cepillo (RPM)",
+            "Dimensiones, L x An x Al (mm)",
+            "Tamaño del compartimento de la batería (L x An x Al) (mm)",
+            "máx. peso de carga (kg)",
+            "Peso neto / kg)",
+            "Contador de horas",
+            "Versión de batería",
+            "Mangueras de vaciado de recuperación",
+            "Indicador de nivel de agua",
+            "Batería incluida"
+        ],
+        "valor_collapse": [
+            "2100",
+            "40",
+            "40",
+            "790",
+            "510",
+            "35 max",
+            "150",
+            "1200x610x1170",
+            "340x330x260",
+            "168",
+            "128",
+            "incluido",
+            "incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido"
+        ]
+    }
+]

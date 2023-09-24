@@ -1,0 +1,57 @@
+[
+    {
+      "tituloUsoDelEquipoAS510b": "Al terminar de usar el equipo, ¿qué debo hacer?",
+      "pasos": [
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-01.jpg",
+          "texto": "1.- Desconecte el cargador de batería y guarde el cable.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-02.jpg",
+          "texto": "2.- Coloque el cepillo o porta pad debajo de la plataforma de fregado.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-03.jpg",
+          "texto": "3.- Llene con agua limpia hasta el máximo de 40 litros.\n Revise en el indicador del equipo.\n Luego añada un detergente de baja espuma adecuado\n para la fregadora, en dosis recomendado por el fabricante.",
+          "colClass": "col-12 col-md-6"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-04.jpg",
+          "texto": "4.- Presione el botón de encendido general.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-05.jpg",
+          "texto": "5.- Pulse los botones del mango para enganchar el cepillo.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-06.jpg",
+          "texto": "6.- Baje el squeegee.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-07.jpg",
+          "texto": "7.- Pulse el botón de encendido del motor de aspiración.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-08.jpg",
+          "texto": "8.- Pulse el botón de encendido para el paso de agua.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-09.jpg",
+          "texto": "9.- Ajuste el squeegee para lograr una óptima captación de agua.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/UsoDeEquipo/uso-equipo-10.jpg",
+          "texto": "10.- Inicie la limpieza.",
+          "colClass": "col-6 col-md-3"
+        }
+      ]
+    }
+]

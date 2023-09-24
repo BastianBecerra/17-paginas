@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Al terminar de usar el equipo, ¿qué debo hacer?",
+        "pasos": [
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-01.jpg",
+                "texto": "1. Apague la máquina.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-02.jpg",
+                "texto": "2. Vacié el estanque de recuperación o agua sucia.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-03.jpg",
+                "texto": "3. Lave el estanque de recuperación o agua sucia.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-04.jpg",
+                "texto": "4. Cierre la válvula de solución o de agua limpia, previamente a la limpieza del filtro.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-05.jpg",
+                "texto": "5. Revise y limpie el filtro de agua (semanalmente).",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-06.jpg",
+                "texto": "6. Retire el squeegee y proceda a revisar y limpiar las gomas. (darlas vuelta si es necesario)",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-07.jpg",
+                "texto": "7. Inspeccione el estado del cepillo o pad.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-08.jpg",
+                "texto": "8. Estacione la máquina con la tapa del depósito de recuperación abierta.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-09.jpg",
+                "texto": "9. Conecte el cable del cargador de baterías a la red eléctrica por al menos 8 hrs.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-10.jpg",
+                "texto": "Importante: Si el equipo queda inoperativo, se debe desconectar el enchufe de las baterías.",
+                "colClass": "col-6 col-md-3"
+            }
+        ]
+    }
+]

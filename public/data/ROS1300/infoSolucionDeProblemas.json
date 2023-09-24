@@ -1,0 +1,36 @@
+[
+    {
+      "titulo": "La máquina no funciona, ¿cómo debería?",
+      "imagen1": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/no-funciona-01.jpg",
+      "paso1": "1. Compruebe si la batería está cargada. \n2. Compruebe si el botón de parada de emergencia está activado.",
+      "imagen2": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/no-funciona-02.jpg",
+      "paso2": "3. Compruebe si el conector de la batería principal está conectado correctamente.",
+      "imagen3": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/no-funciona-03.jpg",
+      "paso3": "4. Compruebe si el pedal del freno de estacionamiento está activado.",
+      "imagen4":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png",
+      "paso4": "5. Abra la cubierta de la máquina y compruebe que no se haya disparado ningún fusible."
+    },
+    {
+      "titulo": "La máquina no retiene el polvo",
+      "imagen1": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-01.jpg",
+      "paso1": "1. Compruebe si todos los faldones están ajustados correctamente y no presentan daños.",
+      "imagen2": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-02.jpg",
+      "paso2": "2. Compruebe si el sistema de aspiración está encendido.",
+      "imagen3": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-03.jpg",
+      "paso3": "3. Limpie el filtro pulsando el botón del sacudidor.",
+      "imagen4": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-04.jpg",
+      "paso4": "4. Compruebe si la tolva de residuos está llena.",
+      "imagen5": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/succion-04.jpg",
+      "paso5": "5. Compruebe los interruptores de aspiración y del sacudidor."
+    },
+    {
+      "titulo": "La máquina no barre.",
+      "imagen1": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/limpia-01.jpg",
+      "paso1": "1. Revise el cepillo principal, asegúrese de que esté girando y no esté desgastada.\n Ajuste la presión de la escoba si es necesario.",
+      "imagen2": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/limpia-02.jpg",
+      "paso2": "2. Ajuste los cepillos laterales si es necesario, sustitúyalos si las cerdas están desgastadas.",
+      "imagen3": "https://nilfiskchile.cl/assets/img/BarredoraSC250/SolucionProblemas/limpia-03.jpg",
+      "paso3": "3. Abra la cubierta de la máquina y compruebe los interruptores de los cepillos."
+    }
+  ]
+  

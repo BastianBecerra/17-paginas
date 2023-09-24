@@ -1,0 +1,33 @@
+.Banimg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 27vw;
+    padding-left: 12px;
+}
+
+.BannerFregadora{
+    background-image: url(../../../assets/img/bannersFregadoraYBarredora/banner-Fregadoras.jpg);
+}
+
+.Fregadora{
+    width: 430px;
+}
+
+.textcolor{
+    color: #959FB0;
+}
+
+.tituloh1{
+    font-size: 4rem;
+}
+
+@media screen and (max-width:768px) {
+    
+    .tituloh1{
+        font-size: 2rem;
+    }
+
+    .Fregadora{
+        width: 238px;
+    }
+}

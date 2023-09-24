@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Al terminar de usar el equipo, ¿qué debo hacer?",
+        "pasos": [
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro1.png",
+                "texto": "1. Para el transportar y estacionar la máquina, pisa el pedal (levanta ligeramente la parte delantera de la máquina inclinando el manubrio).",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro2.png",
+                "texto": "2. Vacía los tanques de recuperación y solución. Límpialos con agua.",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro3.png",
+                "texto": "3. Lava con agua limpia la tapa y la rejilla de aspiración.",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro4.png",
+                "texto": "4. Revisa y limpia regularmente los filtros de aspiración y solución.",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro5.png",
+                "texto": "5. Remueve los squeegees.<br/> Quita el cepillo cílindrico girando la perilla lateral a la derecha.",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro6.png",
+                "texto": "6. Limpia con agua los squeegee y el cepillo cilíndrico.",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro7.png",
+                "texto": "7. Limpia la bandeja de residuos.",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro8.png",
+                "texto": "8. Limpia la máquina con un paño húmedo y, si es necesario, utiliza un producto de limpieza neutro.",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro9.png",
+                "texto": "9. Carga las baterías: Conecta el cable de carga de equipo a una toma de corriente.",
+                "colClass": "col-6 col-md"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/AlFinTrabajo/Mantencion-intro10.png",
+                "texto": "10. Luego, almacena el equipo en un lugar limpio y seco.",
+                "colClass": "col-6 col-md"
+            }
+        ]
+    }
+]

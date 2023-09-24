@@ -1,0 +1,56 @@
+[
+    {
+      "pasos": [
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc1.png",
+          "texto": "1. Desconecta el cable de la batería del equipo y de la toma de corriente.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc2.png",
+          "texto": "2. Llena con agua el tanque de solución. \nLa temperatura del agua no debe exceder los 40°C.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc3.png",
+          "texto": "3. La tapa del tanque puede usarse como dosificador de detergente. Una tapa llena equivale a 30 ml dando 0.5% de detergente (6 Litros) a la capacidad del tanque.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc4.png",
+          "texto": "4. Ajusta el mango a la altura deseada. Enciente el equipo con el botón de encendido.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc5.png",
+          "texto": "5. Con el pie levante el pedal para que baje la máquina y pueda comenzar a trabajar.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc6.png",
+          "texto": "6. Toma las manijas para activar el cepillo y el flujo de solución, luego comienza a limpiar el piso.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc7.png",
+          "texto": "7. Pulsa el botón de solución, según el tipo de limpieza a realizar.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc8.png",
+          "texto": "8. Para la función de barrido, levanta/bloquea la palanca derecha, para poder levantar la escobilla de goma frontal (o squeegee) y así recolectar los residuos pequeños.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc9.png",
+          "texto": "9. Para un doble restregado, presiona el botón de succión para apagar el aspirado.",
+          "colClass": "col-6 col-md"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/BarredoraSC250/UsoDelEquipo/UsoYMantencion-Intruc10.png",
+          "texto": "10. Apaga el equipo con el botón de encedido principal.",
+          "colClass": "col-6 col-md"
+        }
+      ]
+    }
+]

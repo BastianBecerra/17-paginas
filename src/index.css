@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(39,57,75,1) 0%, rgba(82,96,116,1) 50%, rgba(39,57,75,1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'RobotoLigth';
+  font-weight: 300;
+  src: url('./assets/font/roboto-light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoMedio';
+  font-weight: 500;
+  src: url('./assets/font/roboto-medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoRegular';
+  font-weight: 400;
+  src: url('./assets/font/roboto-regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoBold';
+  font-weight: 600;
+  src: url('./assets/font/roboto-bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FrutigerNormal';
+  font-weight: 300;
+  src: url('./assets/font/Frutiger.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FrutigerBold';
+  font-weight: 500;
+  src: url('./assets/font/Frutiger_bold.ttf') format('truetype');
+}
+
+.RobotoLigth {
+  font-family: 'RobotoLigth', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.RobotoMedio {
+  font-family: 'RobotoMedio', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.RobotoRegular {
+  font-family: 'RobotoRegular', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.RobotoBold {
+  font-family: 'RobotoBold', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.FrutigerNormal {
+  font-family: 'FrutigerNormal', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.FrutigerBold {
+  font-family: 'FrutigerBold', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}

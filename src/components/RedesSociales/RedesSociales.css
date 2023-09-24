@@ -1,0 +1,75 @@
+.Redes{
+    background-color: #515960;
+}
+
+.numeroTelefono a{
+    color: #38afd9;
+    text-decoration: none;
+}
+
+.TelefonoImg{
+    background-color: #38afd9;
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.NilfiskBG{
+    background-color: #30373D;
+    padding-bottom: 1px;
+}
+  
+.custom-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.footer-social {
+    position: relative;
+    height: 110px;
+    overflow: hidden;
+}
+.footer-social-icon {
+    position: relative;
+    height: 65px;
+    width: 65px;
+    min-width: 54px;
+    line-height: 18px;
+    font-size: 25px;
+    color: #fff;
+    background-color: rgba(255,255,255,0.08);
+    border-radius: 50%;
+    z-index: 9;
+    transition: all .3s;
+}
+
+.footer-social-icon>span {
+    height: 25px;
+}
+
+.footer-social-icon:hover{
+    background-color: #38afd9;
+    color: #fff;
+}
+
+.footer-social-icon:not(:first-child) {
+    margin-left: 15px;
+}
+
+
+@media (min-width: 992px){
+    .footer-social-icon:not(:first-child) {
+        margin-left: 70px;
+    }
+}
+
+@media (max-width: 767px) {
+    .footer-social-icon{
+        height: 40px;
+        width: 40px;
+        min-width: 40px;
+        font-size: 16px;
+        line-height: normal;
+    }
+}

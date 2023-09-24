@@ -1,0 +1,30 @@
+.MYD{
+    background-color: #F0F3F6;
+}
+
+.owl-carousel button.owl-dot span{
+    width: 10px;
+    height: 10px;
+    background-color: #d7dee7;
+    margin: 5px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.owl-carousel button.owl-dot.active span{
+    background-color: #0d2237;
+}
+
+.tituloManualesDocumentos{
+    font-size: 2.6rem;
+}
+
+.subTituloManualesDocumentos{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.owl-carousel img{
+    max-width: 250px;
+    margin: auto;
+}

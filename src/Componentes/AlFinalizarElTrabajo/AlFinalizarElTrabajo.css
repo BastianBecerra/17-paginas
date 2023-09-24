@@ -1,0 +1,22 @@
+.BoxImg{
+    width: 100%;
+}
+
+.TextBlack{
+    color: #687487;
+}
+
+.MiniTitulo{
+    background-color: #1E2632;
+    color: white;
+    justify-content: space-around;
+}
+
+@media screen and (max-width:580px){
+    .MiniTitulo a{
+        font-size: .9rem;
+    }
+    .MiniTitulo h3{
+        font-size: 1rem;
+    }
+}

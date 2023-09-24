@@ -1,0 +1,72 @@
+[
+    {
+      "tituloUsoDelEquipoAS510b": "Al terminar de usar el equipo, ¿qué debo hacer?",
+      "pasos": [
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-01.jpg",
+          "texto": "1. Desconecte el cargador de la batería y guarde el cable",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-02.jpg",
+          "texto": "2. Llene el depósito de solución con agua limpia y añada un detergente con poca espuma adecuado para fregadoras.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-03.jpg",
+          "texto": "3. Mientras llena el depósito de solución, observe el nivel del agua en el indicador que está al costado de la máquina.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-04.jpg",
+          "texto": "4. Instale la boquilla y fíjela con los dos reguladores",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-05.jpg",
+          "texto": "5. Ajuste el ángulo y la presión de la boquilla de aspiración para una óptima recogida de agua girando el regulador del soporte",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-06.jpg",
+          "texto": "6. Inserte la llave y ponga en marcha la máquina",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-07.jpg",
+          "texto": "7. Ajuste la velocidad girando el control de velocidad",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-08.jpg",
+          "texto": "8. Ajuste el nivel del agua pulsando el botón + ó -",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-09.jpg",
+          "texto": "9. Utilice el interruptor para cambiar de dirección: F = hacia adelante y R = marcha atrás",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-10.jpg",
+          "texto": "10. Baje el cepillo con el pedal",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-11.jpg",
+          "texto": "11. Baje la boquilla con la palanca",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-12.jpg",
+          "texto": "12. Conecte el motor del cepillo con el botón",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/UsoDelEquipo/uso-equipo-13.jpg",
+          "texto": "13. Pise el pedal y empiece a limpiar",
+          "colClass": "col-6 col-md-3"
+        }
+      ]
+    }
+]

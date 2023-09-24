@@ -1,0 +1,59 @@
+[
+    {
+        "id": "AS510B",
+        "descParte1": [
+            "Esta es una barredora con conductor a bordo, a baterías, compacta, potente, confiable y muy fácil de usar. Solo tiene que tomar asiento, ajustarlo y pulsar el botón de inicio."
+        ],
+        "descParte2": [
+            "Con esta máquina usted podrá barrer grandes áreas sin complicaciones y ser muy eficiente, porque ofrece Mayor barrido x Menos vaciados de tolva.",
+            "La ROS1300 es una máquina muy segura y le brinda muchas comodidades para facilitar su trabajo."
+        ],
+        "imagenPrincipal":"https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/fregadora-viper-as510b.jpg",
+        "nombre": [
+            "N º de Modelo",
+            "Voltaje (V)",
+            "Nivel de presión sonora (dB(A))",
+            "Productividad 2 cepillos laterales teórica/real (m²/h)",
+            "Ancho de trabajo sin cepillos laterales (cm)",
+            "Mín. ancho del pasillo de vuelta (cm)",
+            "Volumen de tolva (l)",
+            "Largo x ancho x alto (mm)",
+            "Peso bruto del vehículo (PBV) (kg)"
+        ], 
+        "valor": [
+            "50000605",
+            "24",
+            "72 ± 3",
+            "8100/5670",
+            "70",
+            "255",
+            "130",
+            "1680x1055x1300",
+            "688"
+        ],
+        "nombre_collapse": [
+            "% de trabajo de trepabilidad (DEG)",
+            "Máx. velocidad", 
+            "Ancho de trabajo con 2 cepillos laterales", 
+            "Sacudidor de filtro eléctrico",
+            "Tolva para recogida de escombros.",
+            "Velocidad del cepillo lateral ajustable",
+            "Botón One-Touch™",
+            "Sistema de control de polvo DustGuard™",
+            "pantalla LCD",
+            "Tracción de la rueda trasera"
+        ],
+        "valor_collapse": [
+            "dieciséis",
+            "8 kilómetros por hora",
+            "135",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "id": "SC250",
+        "descParte1": [
+            "La Nilfisk SC250 es una fregadora compacta para una limpieza rápida y eficiente de suelos duros, cuya versatilidad le permitirá llegar a todos los rincones, incluso debajo de mesas, muebles y estanterías.",
+            "Se caracteriza por su capacidad de barrer, fregar y secar al mismo tiempo y de limpiar en 2 direcciones -hacia adelante y hacia atrás- facilitando por mucho la tarea."
+        ],
+        "descParte2": [
+            "La SC250 es una máquina a baterías muy productiva y liviana, con bajo nivel de ruido lo que la convierte en una opción adecuada (sobre todo para empresas de aseo) para la limpieza diurna. Su uso también es recomendado para lugares con alta interacción de personas tales como, comercios, escuelas, restaurantes, cafeterías, panaderías, hoteles, empresas de limpieza, etc.",
+            "Incorpora el botón “OneTouch™ que activa todas las funciones esenciales y sensores táctiles en el mango que otorgan un control total para facilitar la operación."
+        ],
+        "imagenPrincipal":"https://nilfiskchile.cl/assets/img/BarredoraSC250/FREGADORA.png",
+        "nombre": [
+            "Modelo No",
+            "Voltaje",
+            "Clase de aislamiento",
+            "Potencia nominal (W)",
+            "Consumo de energía (kW)",
+            "Potencia del motor de aspiración (W)",
+            "Nivel de presión sonora a 1,5 m (dB(A) ISO 3744)"
+        ], 
+        "valor": [
+            "9087380020",
+            "36",
+            "tercero",
+            "300",
+            "0.3",
+            "180",
+            "66 ±3"
+        ],
+        "nombre_collapse": [
+            "Productividad teórica/real (m²/h)",
+            "Tiempo de funcionamiento (min.)", 
+            "Nivel de vibración del mango (m/s²)", 
+            "Caudal de agua (l/m)", "Depósito solución/recuperación (l)",
+            "Ancho de la escobilla de goma (mm)", "Presión del cepillo (kg)",
+            "Velocidad del cepillo (RPM)", "Cantidad y tipo de cepillo",
+            "Largo x ancho x alto (mm)", "Peso bruto (gvw) (kg)",
+            "Peso neto / (kg)", "Peso de envío (kg", "Diseño compacto",
+            "Batería de iones de litio", "Entregado listo para usar (paquete completo)",
+            "Botón One-Touch™", "Solución tanque en tanque", "Fregar y barrer"
+        ],
+        "valor_collapse": [
+            "1360/680",
+            "40",
+            "< 2.5",
+            "0,15/0,3",
+            "6/6", "340",
+            "máximo 12",
+            "1000",
+            "1 cilindro",
+            "630x425x400",
+            "32",
+            "25",
+            "30",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido"
+        ]
+    }
+]

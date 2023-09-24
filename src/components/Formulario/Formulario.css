@@ -1,0 +1,54 @@
+.bg-image {
+    background-image: url("../../assets/img/maquina.png");
+    background-repeat: no-repeat;
+    background-position-x: -200px;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-position-y: 120px;
+}
+
+.btn-primary {
+    border: 0px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 17px 30px;
+    background-color: #38afd9;
+    color: #fff !important;
+}
+
+.btn-primary:hover{
+    background-color: #269cc5;
+}
+
+input {
+    border-radius: 2px !important; 
+}
+
+label {
+    color: white;
+}
+
+.Contacto{
+    color: white;
+    font-size: 4rem;
+}
+
+.form-floating label{
+    color: #333;
+}
+
+
+@media screen and (max-width:768px){
+    .bg-image{
+        background-position-x: 0;
+        background-position-y: 600px;
+        background-repeat: no-repeat;
+        padding-bottom: 68vw;
+        padding-top: 10rem;
+        background-size: contain;
+    }
+    .Contacto{
+        font-size: 3rem;
+    }
+}
