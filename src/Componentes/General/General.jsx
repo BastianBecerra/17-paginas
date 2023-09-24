@@ -44,7 +44,7 @@ const General = ({ data }) => {
           </h1>
           <div className="row">
 
-            <div className="col-12 col-md-5 py-4 order-1 order-md-2">
+            <div className="col-12 col-md-5 py-4">
               {data.map ((img, index) =>(
                 <img className="Fregadora2" src={img.imagenPrincipal} alt="" />
               ))}
@@ -92,7 +92,7 @@ const General = ({ data }) => {
               </div>
             </div>
 
-            <div className="col-12 col-md-7 py-4 order-2 order-md-1">
+            <div className="col-12 col-md-7 py-4">
             <div>
               <h2 className="text-start mb-3 py-1 RobotoBold">Especificaciones Técnicas</h2>
             </div>

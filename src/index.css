@@ -85,3 +85,12 @@ code {
   font-weight: normal;
   font-style: normal;
 }
+
+#section-video .carousel-item {
+  aspect-ratio: 16/9 !important;
+}
+
+#section-video iframe {
+  width: 100% !important;
+  height: 100% !important;
+}

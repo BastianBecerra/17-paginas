@@ -71,37 +71,40 @@ const AS710R = () => {
     ]
 
     const videos = [
-        "https://nilfiskchile.cl/assets/videos/F-AS710R/AS710R_Viper_video_Uso y cuidado_esp.mp4"
+        "https://www.youtube.com/embed/5qc0p1OLRMg?si=Q3P-5tmNgzPCEgsg",
+        "https://nilfiskchile.cl/assets/videos/F-AS710R/AS710R_Viper_uso_y_cuidado.mp4",
       ];
       
       const posters = [
+        "https://nilfiskchile.cl/assets/videos/F-AS710R/video-AS710R-01.jpg",
         "https://nilfiskchile.cl/assets/videos/F-AS710R/video-AS710R-01.jpg"
       ];
       
       const thumbnails = [
+        "https://nilfiskchile.cl/assets/videos/F-AS710R/video-AS710R-01.jpg",
         "https://nilfiskchile.cl/assets/videos/F-AS710R/video-AS710R-01.jpg"
       ];
 
       const elementosCarrusel = [
         {
           imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraAS710R/Manuales/presentacion.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img//FregadoraAS710R/Manuales/AS710R_Catalogo.pdf",
+          pdf: "https://nilfiskchile.cl/assets/img/FregadoraAS710R/Manuales/AS710R_Catalogo.pdf",
           label: 'Catálogo',
         },
         {
           imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraAS710R/Manuales/uso-mantencion.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img//FregadoraAS710R/Manuales/AS710R_Uso_Mantenciвn.pdf",
-          label: 'Uso Y Mantencion',
+          pdf: "https://nilfiskchile.cl/assets/img/FregadoraAS710R/Manuales/AS710R_Uso_Mantenciвn.pdf",
+          label: 'Uso y mantención',
         },
         {
           imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraAS710R/Manuales/ficha-tecnica.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img//FregadoraAS710R/Manuales/AS710R_Ficha_Tecnica.pdf",
+          pdf: "https://nilfiskchile.cl/assets/img/FregadoraAS710R/Manuales/AS710R_Ficha_Tecnica.pdf",
           label: 'Ficha técnica',
         },
         {
           imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraAS710R/Manuales/manual-tecnico.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img//FregadoraAS710R/Manuales/AS710R_Manual_Tecnico.pdf",
-          label: 'Manual Técnico',
+          pdf: "https://nilfiskchile.cl/assets/img/FregadoraAS710R/Manuales/AS710R_Manual_Tecnico.pdf",
+          label: 'Manual técnico',
         }
       ];
 

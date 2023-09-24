@@ -1,6 +1,6 @@
 [
     {
-        "titulo": "FREGADOR\n VIPER ROS1300",
+        "titulo": "FREGADORA\n VIPER ROS1300",
         "codigo": "CÓDIGO NILFISK Y VIPER 50000238",
         "descripcion":[
             "Esta es una barredora con conductor a bordo, a baterías, compacta, potente, confiable y muy fácil de usar. Solo tiene que tomar asiento, ajustarlo y pulsar el botón de inicio.",
@@ -8,6 +8,6 @@
             "La ROS1300 es una máquina muy segura y le brinda muchas comodidades para facilitar su trabajo."
             
         ],
-        "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/fregadora-viper-as510b.jpg"
+        "imagen": "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Ros1300.jpg"
     }
 ]

@@ -77,7 +77,7 @@ const ROS1300 = () => {
   ]
 
     const videos = [
-        "https://nilfiskchile.cl/assets/videos/F-AS510/1_AS510B_Viper_video_presentacion_espanol.mp4"
+        "https://www.youtube.com/embed/-GFWSlO-3jQ?si=i3Kcef-Tw9_j7ay5"
       ];
       
       const posters = [
@@ -90,24 +90,24 @@ const ROS1300 = () => {
 
       const elementosCarrusel = [
         {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/Manuales/viper-AS510b.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/Manuales/AS510B Viper_brochure.espanol.pdf",
-          label: 'Catálogo',
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Manuales/barredoras.jpg",
+          pdf: "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Manuales/barredoras.pdf",
+          label: 'Barredoras',
         },
         {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/Manuales/poster-AS510b.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/Manuales/AS510B_Pвster_Uso y Cuidado_espanol.pdf",
-          label: 'Uso Y Mantencion',
-        },
-        {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/Manuales/ficha-tecnica-AS510b.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/Manuales/AS510 B_ficha_tecnica_espanol.pdfF",
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Manuales/ficha-tecnica.jpg",
+          pdf: "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Manuales/ficha-tecnica.pdf",
           label: 'Ficha técnica',
         },
         {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/Manuales/ficha-tecnica-AS510b.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/Manuales/AS510 B_ficha_tecnica_espanol.pdfF",
-          label: 'Ficha técnica',
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Manuales/instrucciones-uso.jpg",
+          pdf: "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Manuales/instrucciones-uso.pdf",
+          label: 'Instrucciones de uso',
+        },
+        {
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Manuales/uso-y-mantenimiento.jpg",
+          pdf: "https://nilfiskchile.cl/assets/img/FregradoraROS1300/Manuales/uso-y-mantenimiento.pdf",
+          label: 'Uso y mantenimiento',
         }
       ];
 

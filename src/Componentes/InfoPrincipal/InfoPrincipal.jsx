@@ -12,7 +12,7 @@ function InfoPrincipal({ data, listas, listasDesc2 }) { // Agrega 'listas' como 
                       ))}
                 </div>
                 <div className="col-12 col-md-6 d-flex align-content-center flex-wrap mb-5 mb-md-0">
-                    <div className="w-100">
+                    <div className="w-100 py-3">
                         {data?.map((codigo, index) => (
                             <p key={codigo} className="textcolor text-start mb-2 RobotoBold"><strong>{codigo.codigo}</strong></p>
                         ))}

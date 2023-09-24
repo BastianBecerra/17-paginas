@@ -57,6 +57,12 @@ const SolucionDeProblemas = ({ problemas }) => {
                               <p className="TextBlack">{problema.paso4}</p>
                             </div>
                           )}
+                          {problema.imagen5 && (
+                            <div className="col-6 col-md-3 py-4">
+                              <img className="Boximg" src={problema.imagen5} alt="" />
+                              <p className="TextBlack">{problema.paso5}</p>
+                            </div>
+                          )}
                         </div>
                       </div>
                     </Accordion.Body>

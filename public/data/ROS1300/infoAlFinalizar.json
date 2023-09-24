@@ -3,16 +3,19 @@
         "titulo": "Al terminar de usar el equipo, ¿qué debo hacer?",
         "pasos": [
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-01.jpg",
-                "texto": "1. Retire el panel del filtro trasero para revisar el filtro. Vuelva a instalar el panel y la tolva."
+                "imagen": "https://nilfiskchile.cl/assets/img/FregradoraROS1300/AlFinTrabajo/fin-trabajo-01.jpg",
+                "texto": "1. Retire el panel del filtro trasero para revisar el filtro. Vuelva a instalar el panel y la tolva.",
+                "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-02.jpg",
-                "texto": "3. Retire, limpie e inspeccione el cepillo principal y revise los cepillos laterales. Limpie la máquina con un paño húmedo."
+                "imagen": "https://nilfiskchile.cl/assets/img/FregradoraROS1300/AlFinTrabajo/fin-trabajo-02.jpg",
+                "texto": "2. Retire, limpie e inspeccione el cepillo principal y revise los cepillos laterales. Limpie la máquina con un paño húmedo.",
+                "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/AlFinTrabajo/fin-trabajo-03.jpg",
-                "texto": "4. Cargue la máquina utilizando la conexión de carga trasera. Tiene dos conexiones, una para el cargador externo y otra para el cargador interno."
+                "imagen": "https://nilfiskchile.cl/assets/img/FregradoraROS1300/AlFinTrabajo/fin-trabajo-03.jpg",
+                "texto": "3. Cargue la máquina utilizando la conexión de carga trasera. Tiene dos conexiones, una para el cargador externo y otra para el cargador interno.",
+                "colClass": "col-6 col-md-3"
             }
         ]
     }

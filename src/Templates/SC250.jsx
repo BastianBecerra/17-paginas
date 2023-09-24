@@ -81,22 +81,22 @@ const SC250 = () => {
 
 
         const videos = [
+            "https://www.youtube.com/embed/3YxMQwV0Ch0?si=uud9XROb9D0yMjZG",
             "https://nilfiskchile.cl/assets/videos/B-SC250/Video-1.mp4",
-            "https://nilfiskchile.cl/assets/videos/B-SC250/Video-2.mp4",
             "https://nilfiskchile.cl/assets/videos/B-SC250/Video-3.mp4",
             "https://nilfiskchile.cl/assets/videos/B-SC250/Video-4.mp4"
           ];
           
           const posters = [
-            "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-01.jpg",
             "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-02.jpg",
+            "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-01.jpg",
             "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-03.jpg",
             "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-04.jpg"
           ];
           
           const thumbnails = [
-            "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-01.jpg",
             "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-02.jpg",
+            "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-01.jpg",
             "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-03.jpg",
             "https://nilfiskchile.cl/assets/videos/B-SC250/video-sc250-04.jpg"
           ];
