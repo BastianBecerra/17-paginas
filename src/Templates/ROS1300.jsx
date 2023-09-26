@@ -81,11 +81,11 @@ const ROS1300 = () => {
       ];
       
       const posters = [
-        "https://nilfiskchile.cl/assets/videos/F-AS510/video-AS510b-01.jpg"
+        "https://nilfiskchile.cl/assets/videos/F-ROS1300/video-01.jpg "
       ];
       
       const thumbnails = [
-        "https://nilfiskchile.cl/assets/videos/F-AS510/video-AS510b-01.jpg"
+        "https://nilfiskchile.cl/assets/videos/F-ROS1300/video-01.jpg "
       ];
 
       const elementosCarrusel = [
