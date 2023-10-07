@@ -1,0 +1,83 @@
+[
+    {
+        "id": "AS4325",
+        "descParte1": [
+            "Cuando el cuidado de sus pisos necesita mantener impresionados a los clientes, sin requerir mucha mano de obra o recursos, la serie Viper AS43 ofrece una solución conveniente, con modelos alimentados por cable o batería que eliminan el estrés de la limpieza diaria de rutina. Los controles intuitivos, la excelente capacidad del tanque, el manejo ergonómico y los modos de operación que ahorran recursos ayudan a garantizar que los trabajos rutinarios se realicen sin sobrecargar a sus operadores ni aumentar sus costos."
+        ],
+        "descParte2": [
+            "Los modos Eco y Silencioso facilitan la limpieza durante períodos más largos o en áreas sensibles al sonido",
+            "Fácil acceso al tanque de solución, la batería y los componentes de trabajo, con extracción de la espátula sin herramientas",
+            "Controles convenientes y pantalla LCD para una capacitación y operación rápidas y efectivas",
+            "El diseño de mango ergonómico minimiza la fatiga del operador y se ajusta para múltiples usuarios"
+        ],
+        "imagenPrincipal":"https://nilfiskchile.cl/assets/img/FregadoraViperAS510B/fregadora-viper-as510b.jpg",
+        "nombre": [
+            "Modelo No",
+            "Voltaje (V)",
+            "Clase de protección IP",
+            "Nivel de presión sonora (dB(A))",
+            "Nivel de vibración del mango (m/s²)",
+            "Mín. giro de pasillo (cm)",
+            "Máx. tasa de ascenso (%)"
+        ], 
+        "valor": [
+            "50000579",
+            "24",
+            "IPX24",
+            "67±3 (modo ecológico 63±3)",
+            "< 2,5",
+            "103",
+            "2"
+        ],
+        "nombre_collapse": [
+            "Tanque solución/recuperación (l)",
+            "Ruedas motrices (cm)", 
+            "Presión del cepillo (kg)", 
+            "Velocidad del cepillo (RPM)",
+            "Tamaño del compartimento de la batería (largo x ancho x alto) (mm)",
+            "Peso bruto del vehículo (PBV) (kg)",
+            "Peso de envío (kg)",
+            "Ancho de trabajo (mm)",
+            "Baterías",
+            "Potencia del motor de vacío",
+            "Tamaño de almohadilla/pincel",
+            "Flujo de solución",
+            "Máx. productividad",
+            "Potencia del motor del cepillo",
+            "Peso de la máquina",
+            "Diámetro de las ruedas traseras",
+            "Dimensiones del embalaje",
+            "Haga clic en el pincel de encendido y apagado",
+            "Manguera de drenaje comprimible con control de flujo",
+            "Botón One-Touch™",
+            "Modo ecologico",
+            "Modo silencioso",
+            "Cargador a bordo (estándar)"
+        ],
+        "valor_collapse": [
+            "25/25",
+            "15",
+            "19",
+            "140 (Eco 100)",
+            "265x350x230",
+            "134",
+            "137",
+            "432",
+            "85Ah C20 / 67AH C5",
+            "300W",
+            "430 mm / 17 pulgadas",
+            "0,59/0,69/1,11/1,68L",
+            "1720m2/hora",
+            "400W",
+            "58 kilos",
+            "89mm",
+            "1130x730x1040mm",
+            "incluido",
+            "incluido",
+            "incluido",
+            "Incluido",
+            "Incluido",
+            "Incluido"
+        ]
+    }
+]

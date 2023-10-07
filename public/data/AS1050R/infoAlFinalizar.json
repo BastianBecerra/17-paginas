@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Al terminar de usar el equipo, ¿qué debo hacer?",
+        "pasos": [
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-01.jpg",
+                "texto": "1.- Apague la máquina con la llave.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-02.jpg",
+                "texto": "2.- Vacíe el depósito con la manguera de la parte de atrás. Vacíe y limpie la bandeja de residuos del depósito.",
+                "colClass": "col-12 col-md-6"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-03.jpg",
+                "texto": "3.- enjuague y limpie el depósito de recuperación.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-04.jpg",
+                "texto": "4.- Vacíe el depósito de solución. Semanalmente: Compruebe y limpie el filtro",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-05.jpg",
+                "texto": "5.- Con la llave conectada, pulse el botón de soltar el cepillo para retirar los cepillos/portapad.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-06.jpg",
+                "texto": "6.- Inspección y limpie.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-07.jpg",
+                "texto": "7.- Quite la boquilla (squeegee) , compruebe y limpie los labios (gomas).",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-08.jpg",
+                "texto": "8.- Cuelgue el labio de goma en la máquina para que se seque",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-09.jpg",
+                "texto": "9.- Estacione la máquina dejando abierto el depósito de recuperación.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/AlFinTrabajo/fin-trabajo-10.jpg",
+                "texto": "10.- Conecte el cargador de la batería a la entrada de carga de la máquina y encienda el cargador.",
+                "colClass": "col-6 col-md-3"
+            }
+        ]
+    }
+]

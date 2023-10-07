@@ -61,3 +61,35 @@ export const obtenerInfoGeneral_ROS1300 = async () => {
     return [];
   }
 }
+
+export const obtenerInfoGeneral_AS4325 = async () => {
+  try {
+    const response = await fetch('/data/AS4325/infoGeneral.json', {
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    });
+    
+    const jsonData = await response.json();
+    return jsonData;
+  } catch (error) {
+    console.error("Al hacer el fetching en data por el json", error);
+    return [];
+  }
+}
+
+export const obtenerInfoGeneral_AS1050R = async () => {
+  try {
+    const response = await fetch('/data/AS1050R/infoGeneral.json', {
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    });
+    
+    const jsonData = await response.json();
+    return jsonData;
+  } catch (error) {
+    console.error("Al hacer el fetching en data por el json", error);
+    return [];
+  }
+}

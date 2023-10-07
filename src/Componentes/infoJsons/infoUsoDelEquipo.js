@@ -61,3 +61,34 @@ export const obtenerUSO_ROS1300 = async () => {
           return [];
         }
 };
+export const obtenerUSO_AS4325 = async () => {
+    try {
+          const response = await fetch('/data/AS4325/infoUsoDeEquipo.json', {
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+            }
+          });
+          const jsonData = await response.json();
+          return jsonData;
+        } catch (error) {
+          console.error("Error fetching data from JSON:", error);
+          return [];
+        }
+};
+
+export const obtenerUSO_AS1050R = async () => {
+    try {
+          const response = await fetch('/data/AS1050R/infoUsoDeEquipo.json', {
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+            }
+          });
+          const jsonData = await response.json();
+          return jsonData;
+        } catch (error) {
+          console.error("Error fetching data from JSON:", error);
+          return [];
+        }
+};

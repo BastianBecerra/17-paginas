@@ -1,0 +1,77 @@
+[
+    {
+      "tituloUsoDelEquipoAS510b": "Al terminar de usar el equipo, ¿qué debo hacer?",
+      "pasos": [
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-01.jpg",
+          "texto": "1.- Desconecte el cargador de batería y guarde el cable.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-02.jpg",
+          "texto": "2.- Llene el depósito de solución con agua limpia y añada un detergente con poca espuma adecuado para fregadoras. La temperatura del agua no debe exceder los 40 °C.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-03.jpg",
+          "texto": "3.- El indicador del nivel de solución está en el costado del depósito y muestra el nivel actual.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-04.jpg",
+          "texto": "4.- Si el depósito de solución está vacío o el depósito de recuperación está lleno, Aparecerá un indicador en la pantalla con una advertencia sonora.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-05.jpg",
+          "texto": "5.- Instale la boquilla (squeegee) y fíjela con los dos reguladores.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-06.jpg",
+          "texto": "6.- Ajuste el ángulo de la boquilla de goma y la presión del labio para una óptima recogida de agua girando el mando de ajuste en el soporte.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-07.jpg",
+          "texto": "7.- Afloje las dos tuercas para retirar el faldón lateral.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-08.jpg",
+          "texto": "8.- Para instalar el cepillo/portapad, tire hacia arriba del asa metálica y deslícela hasta que se detenga contra los pasadores en la posición adecuada y suelte el mango.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-09.jpg",
+          "texto": "9.- Vuelva a colocar el faldón lateral.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-10.jpg",
+          "texto": "10.- Gire la llave principal a la posición de encendido y pulse el botón para colocar el cepillo de forma automática. La plataforma de fregado bajará y los cepillos girarán zentamente para colocarse correctamente.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-11.jpg",
+          "texto": "11.- Pulse el botón de puesta en marcha para activar todas las funciones.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-12.jpg",
+          "texto": "12.- Ajuste la velocidad máxima con el regulador de ajuste de velocidad (de tortuga a liebre).",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-13.jpg",
+          "texto": "13.- Utilice los botones para cambiar los ajustes de limpieza desde el panel.",
+          "colClass": "col-6 col-md-3"
+        },
+        {
+          "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/UsoDelEquipo/uso-equipo-13.jpg",
+          "texto": "14.- Durante el trabajo de limpieza es posible ajustar el flujo de la solución y la presión de los cepillos, activando el Modo Eco o el Modo Silencioso desde el panel.",
+          "colClass": "col-6 col-md-3"
+        }
+      ]
+    }
+]

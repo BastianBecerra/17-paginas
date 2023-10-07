@@ -61,3 +61,35 @@ export const obtenerAlfinalizarROS1300 = async () => {
           return [];
         }
 };
+
+export const obtenerAlfinalizarAS4325 = async () => {
+    try {
+          const response = await fetch('/data/AS4325/infoAlFinalizar.json', {
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+            }
+          });
+          const jsonData = await response.json();
+          return jsonData;
+        } catch (error) {
+          console.error("Error fetching data from JSON:", error);
+          return [];
+        }
+};
+
+export const obtenerAlfinalizarAS1050R = async () => {
+    try {
+          const response = await fetch('/data/AS1050R/infoAlFinalizar.json', {
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+            }
+          });
+          const jsonData = await response.json();
+          return jsonData;
+        } catch (error) {
+          console.error("Error fetching data from JSON:", error);
+          return [];
+        }
+};

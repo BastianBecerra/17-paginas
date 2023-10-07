@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Al terminar de usar el equipo, ¿qué debo hacer?",
+        "pasos": [
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-01.jpg",
+                "texto": "1. Apague la máquina con la llave",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-02.jpg",
+                "texto": "2. Vacíe y limpie el depósito de recuperación y el sistema de flotador",
+                "colClass": "col-12 col-md-6"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-03.jpg",
+                "texto": "3. Vacíe el depósito de solución. Compruebe y limpie el filtro (semanalmente).",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-04.jpg",
+                "texto": "4. Pulse el botón de soltar el cepillo e inspec-cione el cepillo o el pad",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-05.jpg",
+                "texto": "5. Quite la boquilla,(squeegee), compruebe y limpie los labios (gomas del squeegee)",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-06.jpg",
+                "texto": "6. Cuelgue la boquilla en la máquina para que se seque",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-07.jpg",
+                "texto": "7. Estacione la máquina con la tapa del depósito de recuperación abierta",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-08.jpg",
+                "texto": "8. Conecte el cable del cargador de la batería a la máquina y a la toma de corriente.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-09.jpg",
+                "texto": "9. Estacione la máquina con la tapa del depósito de recuperación abierta",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-10.jpg",
+                "texto": "10. Conecte el cable del cargador de la batería a la máquina.",
+                "colClass": "col-6 col-md-3"
+            },
+            {
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraAS710R/AlFinTrabajo/fin-trabajo-11.jpg",
+                "texto": "11. Conecte el cable del cargador a la toma de corriente eléctrica.",
+                "colClass": "col-6 col-md-3"
+            }
+        ]
+    }
+]

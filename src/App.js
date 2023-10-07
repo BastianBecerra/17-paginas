@@ -15,12 +15,18 @@ import AS510B from './Templates/AS510B';
 import SC250 from './Templates/SC250'
 import AS710R from './Templates/AS710R';
 import ROS1300 from './Templates/ROS1300';
+import AS4325  from './Templates/AS4325';
+import AS530R from './Templates/AS530R';
+import AS1050R from './Templates/AS1050R';
  
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
         <Routes>
+          <Route path='/AS1050R' element={<AS1050R/>}/>
+          <Route path='/AS530R' element={<AS530R/>}/>
+          <Route path='/AS4325' element={<AS4325/>}/>
           <Route path='/ROS1300' element={<ROS1300/>}/>
           <Route path='/AS710R' element={<AS710R/>}/>
           <Route path='/SC250' element={<SC250/>}/>

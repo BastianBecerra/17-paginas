@@ -81,3 +81,66 @@ export const obtenerInfoPrin_ROS1300 = async () => {
     return [];
   }
 };
+
+export const obtenerInfoPrin_AS4325 = async () => {
+  try {
+    const response = await fetch('/data/AS4325/infoPrincipal.json', {
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+
+    const jsonData = await response.json();
+    return jsonData;
+  } catch (error) {
+    console.error("Error fetching data from JSON:", error);
+    return [];
+  }
+};
+
+export const obtenerInfoPrin_AS530R = async () => {
+  try {
+    const response = await fetch('/data/AS530R/infoPrincipal.json', {
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+
+    const jsonData = await response.json();
+    return jsonData;
+  } catch (error) {
+    console.error("Error fetching data from JSON:", error);
+    return [];
+  }
+};
+
+export const obtenerInfoPrin_AS1050R = async () => {
+  try {
+    const response = await fetch('/data/AS1050R/infoPrincipal.json', {
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      }
+    });
+
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+
+    const jsonData = await response.json();
+    return jsonData;
+  } catch (error) {
+    console.error("Error fetching data from JSON:", error);
+    return [];
+  }
+};
