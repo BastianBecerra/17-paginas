@@ -72,25 +72,25 @@ const AS710R = () => {
     ]
 
     const videos = [
-        "https://www.youtube.com/embed/5qc0p1OLRMg?si=Q3P-5tmNgzPCEgsg"
+        "https://nilfiskchile.cl/assets/videos/F-AS1050R/AS1050R_video.mp4"
       ];
       
       const posters = [
-        "https://nilfiskchile.cl/assets/videos/F-AS710R/video-AS1050R-01.jpg"
+        "https://nilfiskchile.cl/assets/videos/F-AS1050R/as1050_video.jpg"
       ];
       
       const thumbnails = [
-        "https://nilfiskchile.cl/assets/videos/F-AS1050R/video-AS1050R-01.jpg"
+        "https://nilfiskchile.cl/assets/videos/F-AS1050R/as1050_video.jpg"
       ];
 
       const elementosCarrusel = [
         {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/Manuales/presentacion.jpg",
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/Manuales/catalogo.jpg",
           pdf: "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/Manuales/AS1050R_Catalogo.pdf",
           label: 'Catálogo',
         },
         {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/Manuales/uso-mantencion.jpg",
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/Manuales/uso-y-mantencion.jpg",
           pdf: "https://nilfiskchile.cl/assets/img/FregadoraAS1050R/Manuales/AS710R_Uso_Mantenciвn.pdf",
           label: 'Uso y mantención',
         },

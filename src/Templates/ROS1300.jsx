@@ -115,7 +115,7 @@ const ROS1300 = () => {
     return (      
         <div>
             <NavBar/>
-            <Banner imageClass="BannerBarredora" titulo={data.length > 0 ? data[0].tituloBarredora : ""} />
+            <Banner imageClass="BannerBarredoraYFregadora" titulo={data.length > 0 ? data[0].tituloBarredora : ""} />
             <InfoPrincipal data={infoPrinc} listas={listas} listasDesc2={listasDesc2}/>
             <UsoDelEquipo data={USO_AS510B}/>
             <AlfinalizarElTrabajo data={final} />

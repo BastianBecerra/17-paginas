@@ -28,7 +28,7 @@ const AS4325 = () => {
   //
 
   //UsoDelEquipo
-    const [USO_AS4325, setUSO_AS4325] = useState([]);
+    const [USO_AS4325B, setUSO_AS4325B] = useState([]);
   //
 
   //AL FINALIZAR EL TRABAJO
@@ -47,7 +47,7 @@ const AS4325 = () => {
         obtenerInfoPrin_AS4325().then(infoPrincipal => {setInfoPrinc(infoPrincipal);});
 
         //USODELEQUIPO
-        obtenerUSO_AS4325().then(uso => {setUSO_AS4325(uso);});
+        obtenerUSO_AS4325().then(uso => {setUSO_AS4325B(uso);});
         //
 
         //AL FINALIZAR EL TRABAJO
@@ -79,18 +79,18 @@ const AS4325 = () => {
 
       const elementosCarrusel = [
         {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/Manuales/viper-AS4325.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/Manuales/AS510B Viper_brochure.espanol.pdf",
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/Manuales/catalogo.jpg",
+          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/Manuales/AS4325B_Catalogo.pdf",
           label: 'Catálogo',
         },
         {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/Manuales/poster-AS4325.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/Manuales/AS510B_Pвster_Uso y Cuidado_espanol.pdf",
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/Manuales/uso-y-mantencion.jpg",
+          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/Manuales/AS4325B_Ficha_Teecnica.pdf",
           label: 'Uso Y Mantencion',
         },
         {
-          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/Manuales/ficha-tecnica-AS4325.jpg",
-          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/Manuales/AS510 B_ficha_tecnica_espanol.pdF",
+          imgSrc: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/Manuales/ficha-tecnica.jpg",
+          pdf: "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/Manuales/AS4325B_Uso_Mantencion.pdf",
           label: 'Ficha técnica',
         },
       ];
@@ -101,7 +101,7 @@ const AS4325 = () => {
             <NavBar/>
             <Banner imageClass="BannerFregadora" titulo={data.length > 0 ? data[0].tituloBarredora : ""} />
             <InfoPrincipal data={infoPrinc} listas={listas} listasDesc2={listasDesc2}/>
-            <UsoDelEquipo data={USO_AS4325}/>
+            <UsoDelEquipo data={USO_AS4325B}/>
             <AlfinalizarElTrabajo data={final} />
             <Video videos={videos} posters={posters} thumbnails={thumbnails}  />
             <General data={generalAS4325}/>

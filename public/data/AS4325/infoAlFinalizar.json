@@ -3,47 +3,47 @@
         "titulo": "Al terminar de usar el equipo, ¿qué debo hacer?",
         "pasos": [
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-01.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-01.jpg",
                 "texto": "1.- Cuando haya terminado de fregar, apague la máquina utilizando el botón de encendido/apagado para realizar el siguiente mantenimiento.",
                 "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-02.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-02.jpg",
                 "texto": "Diariamente: Vacíe el depósito de agua limpia con el grifo de vaciado situado debajo de la máquina.",
                 "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-03.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-03.jpg",
                 "texto": "Diariamente: Vacíe el depósito de recuperación con la manguera de vaciado. Doble la parte blanda antes de quitar el tapón para controlar el caudal.",
                 "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-04.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-04.jpg",
                 "texto": "Diariamente: Inspeccione y enjuague el flotador e inspeccione y limpie la junta de la tapa si es necesario.",
                 "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-05.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-05.jpg",
                 "texto": "Diariamente: Retire la boquilla (squeegee) y límpiela. Inspeccione los labios y gírelos o sustitúyalos si es necesario.",
                 "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-06.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-06.jpg",
                 "texto": "Diariamente: Con la máquina conectada y la plataforma de fregado levantada, pulse el botón para soltar el cepillo/porta pad y luego, limpie e inspeccione antes del siguiente uso.",
                 "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-07.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-07.jpg",
                 "texto": "Semanalmente: Inspeccione el filtro de solución y límpielo si es necesario.",
                 "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-08.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-08.jpg",
                 "texto": "Diariamente: Deje abierta la tapa del depósito de recuperación para dejar que se seque después de limpiarlo para evitar malos olores.",
                 "colClass": "col-6 col-md-3"
             },
             {
-                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325/AlFinTrabajo/fin-trabajo-10.jpg",
+                "imagen": "https://nilfiskchile.cl/assets/img/FregadoraViperAS4325B/AlFinTrabajo/fin-trabajo-09.jpg",
                 "texto": "Diariamente: Cargue las baterías: Conecte el cable del cargador de batería a la toma de corriente. Durante la carga se enciende una luz roja y cambia a verde cuando la carga está completa.",
                 "colClass": "col-6 col-md-3"
             }

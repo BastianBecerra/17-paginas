@@ -71,15 +71,15 @@ const AS710R = () => {
     ]
 
     const videos = [
-        "https://www.youtube.com/embed/DH0K1NQJsQ4?si=RVfjjDr8RW70l1nU",
+        "https://nilfiskchile.cl/assets/videos/F-AS530R/AS530R.mp4",
       ];
       
       const posters = [
-        "https://nilfiskchile.cl/assets/videos/F-AS530R/video-AS710R-01.jpg",
+        "https://nilfiskchile.cl/assets/videos/F-AS530R/as530r-video.jpg",
       ];
       
       const thumbnails = [
-        "https://nilfiskchile.cl/assets/videos/F-AS530R/video-AS710R-01.jpg"
+        "https://nilfiskchile.cl/assets/videos/F-AS530R/as530r-video.jpg"
       ];
 
       const elementosCarrusel = [
